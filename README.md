@@ -2,7 +2,9 @@
 
 Ceci est l'album photo de famille elePHPant pour le [forum AFUP 2020](https://event.afup.org/forum-php-2020/). 
 
-Traditionnellement, les forums, conférences et autres rassemblements PHP sont l'occasion pour le patriache des elePHPants, ["Trisaïeul"](https://afieldguidetoelephpants.net/#variations), de rassembler ses enfants, petits-enfants, et arrière-*-petits-enfants pour une photo de famille. Cette année, c'est une photo de famille en ligne! 
+Traditionnellement, les forums, conférences et rassemblements PHP de tous poils sont l'occasion pour le patriache des elePHPants, ["Trisaïeul"](https://afieldguidetoelephpants.net/#variations), de rassembler ses enfants, petits-enfants, et arrière-*-petits-enfants pour une photo de famille. Cette année, c'est une photo de famille en ligne! 
+
+[La photo de famille est en ligne](https://dseguy.github.io/photo-famille-afup-2020/).
 
 La photo de famille sera disponible à la fin du forum AFUP. Elle sera aussi présente lors de la conférence sur les '14 ans de la vie de l'elephpant' durant le forum. 
 
