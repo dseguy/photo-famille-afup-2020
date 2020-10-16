@@ -6,6 +6,7 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Pierre Grimaud
 + Damien Seguy
 + Grummfy (Jonathan Van Belle)
++ OAllain (Olivier Allain)
 
 
 ### Merci à tous pour vos photos, et votre amour des elePHPants! 
