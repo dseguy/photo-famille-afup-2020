@@ -11,6 +11,7 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Cécile Helary Hamerel
 + Stephan Höchdoerfer
 + Nicolas Fabre
++ Jeanne Londiche
 + Grégoire Pineau
 + Vincent Pontier
 + Igor Santos
