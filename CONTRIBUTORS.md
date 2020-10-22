@@ -21,5 +21,6 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Zeev Suraski
 + Grummfy (Jonathan Van Belle)
 + Hellosct1 (Christophe Villeneuve)
++ Les éléphpants Sylius grâce à [MonsieurBiz](https://twitter.com/monsieurbiz) & [Jacques Bodin-Hullin](https://github.com/jacquesbh)
 
 ### Merci à tous pour vos photos, et votre amour des elePHPants! 
