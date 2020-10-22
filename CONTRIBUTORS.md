@@ -10,6 +10,7 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Pierre Grimaud
 + Cécile Helary Hamerel
 + Stephan Höchdoerfer
++ Maxime Huran
 + Nicolas Fabre
 + Jeanne Londiche
 + Grégoire Pineau
