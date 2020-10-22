@@ -7,13 +7,15 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Victor Dufour
 + Amélie Deffrennes
 + Mathieu Girard
++ Pierre Grimaud
 + Cécile Helary Hamerel
 + Stephan Höchdoerfer
 + Nicolas Fabre
 + Grégoire Pineau
 + Vincent Pontier
-+ Pierre Grimaud
++ Igor Santos
 + Damien Seguy
++ Martin Supiot
 + Zeev Suraski
 + Grummfy (Jonathan Van Belle)
 + Hellosct1 (Christophe Villeneuve)
