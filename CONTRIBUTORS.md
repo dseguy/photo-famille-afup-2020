@@ -2,6 +2,7 @@
 Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de famille. 
 
 + OAllain (Olivier Allain)
++ Jacques Bodin-Hullin
 + Tim Bond
 + Frédéric Bouchery
 + Victor Dufour
