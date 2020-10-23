@@ -7,12 +7,14 @@ Ce fichier contient la liste de tout ceux qui ont contribué à cette photo de f
 + Frédéric Bouchery
 + Victor Dufour
 + Amélie Deffrennes
++ Benoit Galati
 + Mathieu Girard
 + Pierre Grimaud
 + Cécile Helary Hamerel
 + Stephan Höchdoerfer
 + Maxime Huran
 + Nicolas Fabre
++ Mathieu Ledru
 + Jeanne Londiche
 + Grégoire Pineau
 + Vincent Pontier
